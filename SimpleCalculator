@@ -8,7 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// This calculator calls on a Windows App created in Visual Studios, buttons are references below as "cmdName" where name = button. Display is lblDisplay (It is a label).
+
 namespace SimpleCalculator
+
 {
     public partial class Calc : Form
     {
